@@ -1,6 +1,5 @@
-# ETHSTD-21AC-SP22
-
-Spring 2022
+# ETHSTD-21AC at University of California, Berkeley
+> Computing, Data Science & Society (CDSS) Modules - Spring 2022 
 
 Professor: Victoria E. Robinson
 
