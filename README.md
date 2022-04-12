@@ -9,6 +9,8 @@ Module Developers: Content previously developed by Ashley Quiterio, Karla Palos,
 
 These notebooks explore the incarceration trends and impacts of prison realignment in California, which began in the year 2011.
 
+To open and run any of the notebooks, click on the appropriate link below.
+
 | Module | Summary                                                               | Binder Link          |Berkeley Datahub Link          |
 |----------|-----------------------------------------------------------------------|------------------------|------------------------|
 | Notebook 1    | State Prisons and County Jails (Part 1)              | [](https://mybinder.org/v2/gh/ds-modules/ESPM-163ac/master?filepath=Lab1%2FLab1_Intro_to_Jupyter.ipynb) | [![Binder](https://img.shields.io/badge/Launch-UCB%20Datahub-blue.svg)](https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fds-modules%2FETHSTD-21AC-SP22&urlpath=tree%2FETHSTD-21AC-SP22%2FLecture_1.ipynb&branch=main) |
